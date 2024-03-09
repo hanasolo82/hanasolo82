@@ -16,6 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+        hanasolo@hotmail.com
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
