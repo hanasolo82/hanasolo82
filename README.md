@@ -6,15 +6,15 @@
         | $$  | $$| $$_____/| $$| $$| $$  | $$      | $$ | $$ | $$| $$  | $$| $$      | $$| $$  | $$        
         | $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/      |  $$$$$/$$$$/|  $$$$$$/| $$      | $$|  $$$$$$$        
         |__/  |__/ \_______/|__/|__/ \______/        \_____/\___/  \______/ |__/      |__/ \_______/ ```    
- 
+ ```
   Passionate about programming with a creative and problem-solving approach. 
   My enthusiasm for software development is complemented by a strong academic background and practical experience.
   I am constantly seeking opportunities to learn and contribute to innovative project.
-```
+
 <h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
